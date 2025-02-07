@@ -1,4 +1,4 @@
-# Analysis of Economic and Social Factors Influencing Female Participation
+# Analysis of Economic and Social Factors Influencing Female Participation using Python
 
 ## Overview
 This project explores the economic and social factors that influence female participation in education, the labor force, and leadership roles. Using statistical and machine learning techniques, I analyzed global datasets to uncover key drivers and relationships. The project is divided into three main analyses, followed by an exploration of feature importance.
